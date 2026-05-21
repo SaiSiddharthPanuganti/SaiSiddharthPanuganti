@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- Social links -->
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-1a1508?style=for-the-badge)](https://saisiddharthpanuganti-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-1a1508?style=for-the-badge)](https://saisiddharth-space.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-siddharth-panuganti-b2b365270/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisiddharthpanuganti@gmail.com)
 
@@ -198,12 +198,12 @@ Automated quiz generator using YouTube transcripts + Gemini API with adaptive di
 <div align="center">
 
 <!-- Main GitHub Stats — shows stars, commits, PRs, issues, reviews -->
-<img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharthPanuganti&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&icon_color=2a5a2e&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats.shion.dev/api?username=SaiSiddharthPanuganti&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&icon_color=2a5a2e&include_all_commits=true&count_private=true&rank_icon=github" />
 
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharthPanuganti&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&langs_count=8" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SaiSiddharthPanuganti&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&langs_count=8" />
 
 <br/>
 
@@ -235,7 +235,7 @@ Location: Hyderabad, India · UTC+5:30
 
 **[ Let's build something useful. ]**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saisiddharthpanuganti.vercel.app-1a1508?style=for-the-badge)](https://saisiddharthpanuganti-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saisiddharth-space.vercel.app-1a1508?style=for-the-badge)](https://saisiddharth-space.vercel.app)
 
 <sub><i>portfolio · 2026 · open to internships · Hyderabad, India</i></sub>
 
