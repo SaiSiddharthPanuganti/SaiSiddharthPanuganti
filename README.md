@@ -197,15 +197,26 @@ Automated quiz generator using YouTube transcripts + Gemini API with adaptive di
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharthPanuganti&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&icon_color=2a5a2e" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharthPanuganti&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8" height="165" />
+<!-- Main GitHub Stats — shows stars, commits, PRs, issues, reviews -->
+<img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharthPanuganti&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&icon_color=2a5a2e&include_all_commits=true&count_private=true&rank_icon=github" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SaiSiddharthPanuganti&theme=gruvbox&hide_border=true&background=1a1508&ring=c8271e&fire=f89820&currStreakLabel=e8dcc8&sideLabels=e8dcc8&dates=a08c60" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharthPanuganti&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1508&title_color=c8271e&text_color=e8dcc8&langs_count=8" />
+
+<br/>
+
+<!-- Streak Stats (demolab is reliable and GitHub-whitelisted) -->
+<img src="https://streak-stats.demolab.com?user=SaiSiddharthPanuganti&theme=dark&hide_border=true&background=1a1508&ring=c8271e&fire=f89820&currStreakLabel=e8dcc8&sideLabels=e8dcc8&dates=a08c60&stroke=1a1508" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiSiddharthPanuganti&bg_color=1a1508&color=e8dcc8&line=c8271e&point=f89820&area=true&hide_border=true" />
 
 </div>
+
 
 ---
 
