@@ -14,7 +14,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-orange?style=for-the-badge&labelColor=1a1508&color=b36a00" />
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.37%2F10-red?style=for-the-badge&labelColor=1a1508&color=c8271e" />
+<img src="https://komarev.com/ghpvc/?username=SaiSiddharthPanuganti&style=for-the-badge&color=c8271e&labelColor=1a1508&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -167,6 +167,29 @@ Automated quiz generator using YouTube transcripts + Gemini API with adaptive di
 
 **Team Lead — Tech Savishkar Hackathon**
 > Led a 5-member multidisciplinary team to **🥇 1st place** at national level. Coordinated rapid development and spearheaded the winning pitch.
+
+---
+
+## `> ls ./certifications`
+
+### 🌐 Cisco — Networking
+
+| Badge | Certification | Issued | Verify |
+|:---:|:---|:---:|:---:|
+| <img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAENSA__1_.png" width="50" /> | **CCNA: Enterprise Networking, Security & Automation** | Apr 2026 | [![Verify](https://img.shields.io/badge/Credly-Verify-1B6AC6?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/5756a86f-6c02-4770-aba9-63f4ff3bb237) |
+| <img src="https://images.credly.com/size/80x80/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="50" /> | **CCNA: Switching, Routing & Wireless Essentials** | Apr 2026 | [![Verify](https://img.shields.io/badge/Credly-Verify-1B6AC6?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/f033366b-5540-4ad4-8fdd-d842e78425b3) |
+| <img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAENSA__1_.png" width="50" /> | **CCNA: Introduction to Networks** | Dec 2024 | [![Verify](https://img.shields.io/badge/Credly-Verify-1B6AC6?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/ed50ab47-5fd8-4a22-be00-a750534ce33d) |
+| <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="50" /> | **Introduction to Cybersecurity** | Aug 2024 | [![Verify](https://img.shields.io/badge/Credly-Verify-1B6AC6?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/9744fe4f-9664-4ff5-a718-1cf298a86d2b) |
+
+### 🤖 Google — Generative AI & Vertex AI
+
+| Badge | Certification | Issued | Verify |
+|:---:|:---|:---:|:---:|
+| <img src="https://images.credly.com/size/80x80/images/99a70cb4-db91-4ee2-96fd-42a43b7dcb6b/image.png" width="50" /> | **Explore Generative AI with the Vertex AI Gemini API** | May 2025 | [![Verify](https://img.shields.io/badge/Credly-Verify-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/earner/earned/badge/f033366b-5540-4ad4-8fdd-d842e78425b3) |
+| <img src="https://images.credly.com/size/80x80/images/2956278a-fc09-4741-8dd8-0e55f8fcf3e9/image.png" width="50" /> | **Inspect Rich Documents with Gemini Multimodality & Multimodal RAG** | May 2025 | [![Verify](https://img.shields.io/badge/Credly-Verify-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/earner/earned/badge/df638ea9-e5ec-4bb3-b578-761fdba114dd) |
+| <img src="https://images.credly.com/size/80x80/images/c12e3e55-04e2-4ba6-a08a-9557f4aa10f6/image.png" width="50" /> | **Develop GenAI Apps with Gemini and Streamlit** | May 2025 | [![Verify](https://img.shields.io/badge/Credly-Verify-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/earner/earned/badge/54727db5-bd16-4b2e-8ef1-357295a9e23c) |
+| <img src="https://images.credly.com/size/80x80/images/c3e4ad0a-6970-4f22-be16-84fc4f5ea7fb/image.png" width="50" /> | **Build Real World AI Applications with Gemini and Imagen** | May 2025 | [![Verify](https://img.shields.io/badge/Credly-Verify-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/earner/earned/badge/52dfa7bb-6bf1-473d-aa68-2ad8b2acfa7e) |
+| <img src="https://images.credly.com/size/80x80/images/5c62f09d-de9d-4090-9b1e-e13dc4d027bc/image.png" width="50" /> | **Prompt Design in Vertex AI** | May 2025 | [![Verify](https://img.shields.io/badge/Credly-Verify-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/earner/earned/badge/48a1350e-58eb-498b-8065-ef8088c79682) |
 
 ---
 
