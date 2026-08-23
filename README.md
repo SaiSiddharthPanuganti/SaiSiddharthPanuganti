@@ -148,7 +148,7 @@ Automated quiz generator using YouTube transcripts + Gemini API with adaptive di
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  B.E. Information Technology                    CGPA: 8.37   │
+│  B.E. Information Technology                    CGPA: 8.55   │
 │  Vasavi College of Engineering                               │
 │  2024 – 2027 (Expected)                                      │
 ├──────────────────────────────────────────────────────────────┤
